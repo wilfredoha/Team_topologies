@@ -1,6 +1,4 @@
-# Capítulo 1: Repensar las Estructuras y Propósitos de los Equipos
-
-## - The Problem with Org Charts
+# The Problem with Org Charts
 
 * Los organigramas tradicionales muestran jerarquías, no cómo fluye el trabajo.
 * Ignoran dinámicas reales de colaboración, dependencias y comunicación entre equipos.
