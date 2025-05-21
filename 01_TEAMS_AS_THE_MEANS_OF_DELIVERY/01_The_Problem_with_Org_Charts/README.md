@@ -1,36 +1,58 @@
-# The Problem with Org Charts
+# El Problema de los Organigramas(Org Charts)
 
-* Los organigramas tradicionales muestran jerarquías, no cómo fluye el trabajo.
-* Ignoran dinámicas reales de colaboración, dependencias y comunicación entre equipos.
-* Fomentan silos funcionales, ralentizando la entrega de valor al cliente.
+> Las organizaciones deben ser vistas como organismos complejos y adaptativos, no como sistemas mecánicos y lineales.  
+> —Naomi Stanford, *Guide to Organisation Design*
 
-## - Communication Structures of an Organization
+## La complejidad del entorno tecnológico actual
 
-* La forma en que los equipos se comunican influye directamente en la eficiencia.
-* La colaboración efectiva requiere estructuras de comunicación claras y adaptativas.
-* La complejidad organizacional suele aumentar el número de "pasos" para que una decisión o cambio ocurra.
+Los trabajadores de tecnología viven en un estado constante de acción: crean y actualizan sistemas a un ritmo increíble, combinando distintos tipos de tecnologías para ofrecer una experiencia de usuario atractiva. 
 
-## - Team Topologies: A New Way of Thinking about Teams
+Aplicaciones móviles, servicios en la nube, aplicaciones web y dispositivos embebidos, vestibles o del IoT industrial necesitan interoperar eficazmente para lograr los resultados de negocio deseados.
 
-* Se propone un nuevo enfoque basado en la interacción deliberada entre equipos.
-* Se definen **cuatro tipos de equipos** y **tres modos de interacción**.
-* El diseño organizacional debe alinearse con los límites de los equipos, su carga cognitiva y el flujo de valor.
+## El impacto real de los sistemas digitales
 
-## - The Revival of Conway’s Law
+Estos sistemas hoy afectan casi todos los aspectos de la vida diaria, de formas cada vez más profundas. Si el software está mal diseñado—o más importante aún, si existe una desconexión entre el software, el proveedor y el cliente—las personas pueden verse afectadas negativamente:
 
-* La **Ley de Conway** dice que el diseño de los sistemas refleja las estructuras de comunicación de quienes los desarrollan.
-* Esto implica que las decisiones de estructura de equipos influyen directamente en la arquitectura técnica.
-* En lugar de resistirse a esta ley, se debe aprovecharla para fomentar arquitecturas evolutivas alineadas con los equipos.
+* Pueden quedarse varadas lejos de casa si falla una aplicación de transporte.
+* Pueden no poder pagar la renta si falla un servicio de banca en línea.
+* Pueden poner en riesgo su vida si falla un dispositivo médico.
 
-## - Cognitive Load and Bottlenecks
+Nunca antes ha sido tan importante un diseño **sociotécnico explícito**.
 
-* Cada equipo tiene un límite de carga cognitiva que puede manejar eficientemente.
-* Sobrecargar a los equipos con múltiples contextos y responsabilidades genera cuellos de botella.
-* Optimizar la carga cognitiva mejora el enfoque, la autonomía y la velocidad de entrega.
+## La necesidad de trabajo en equipo
 
-## - Summary: Rethink Team Structures, Purpose, and Interactions
+Construir y operar estos complejos sistemas interconectados es una actividad colaborativa, que requiere los esfuerzos combinados de personas con diferentes habilidades trabajando en distintas plataformas.
 
-* Es necesario dejar atrás organigramas estáticos en favor de una organización adaptable.
-* Diseñar los equipos con propósito, carga cognitiva adecuada y modos claros de interacción.
-* Adoptar el pensamiento de *Team Topologies* permite mejorar la entrega continua y la evolución de software.
+Las organizaciones de TI deben entregar y operar software **rápidamente y con seguridad**, mientras se adaptan al cambio constante del entorno de negocio o regulatorio. Hoy, las empresas ya no pueden elegir entre optimizar para la **estabilidad** o para la **velocidad**: necesitan ambas.
 
+## Estructuras organizacionales obsoletas
+
+A pesar de estas demandas, muchas organizaciones aún organizan a sus equipos de maneras que resultan contraproducentes para el desarrollo y operación de software modernos. 
+
+* Las estructuras rígidas basadas en organigramas y matrices para dividir y controlar el trabajo a menudo **fallan en crear condiciones para la innovación**.
+* Estas estructuras impiden entregar rápido y adaptarse al cambio.
+
+## Equipos estables y patrones efectivos
+
+Para tener éxito, las organizaciones deben:
+
+* Contar con **equipos estables y empoderados** como base de la agilidad.
+* Adoptar **patrones efectivos de interacción entre equipos**.
+* Fomentar la habilidad de percibir cambios en el contexto y **evolucionar en consecuencia**.
+
+La buena noticia es que **es posible ser rápidos y seguros al mismo tiempo**, si se adopta la mentalidad adecuada y herramientas que promuevan tanto la adaptabilidad como la repetibilidad, **colocando a los equipos y personas en el centro**.
+
+## De estructuras a ecosistemas sociotécnicos
+
+Como miembros de equipos tecnológicos, debemos cambiar la forma en que vemos a los equipos:
+
+* No como **grupos intercambiables de individuos** que pueden tener éxito con el proceso y herramientas "correctas".
+* Sino como un **ecosistema sociotécnico humano/computacional**, de carbono y silicio, donde la motivación intrínseca y el contexto importan.
+
+Debemos asegurarnos de que los equipos estén motivados y tengan oportunidades reales de hacer su mejor trabajo dentro del sistema.
+
+## Introducción a Team Topologies
+
+Este capítulo introduce **Team Topologies** como un modelo adaptativo de diseño organizacional tecnológico que permite a las empresas alcanzar **velocidad y estabilidad**.
+
+Pero antes, debemos explorar cómo las estructuras reales de comunicación en la mayoría de organizaciones difieren de lo que muestran los organigramas tradicionales, y qué implicaciones tiene esto para el diseño efectivo de equipos.
