@@ -68,4 +68,3 @@ Para ir más rápido, los equipos deben tener límites claros, carga cognitiva m
 
 ---
 
-> **Siguiente paso sugerido:** Explorar la Parte II del libro, donde se introducen los **tipos fundamentales de equipo** y los **modos de interacción** que permiten implementar las ideas de Team Topologies en la práctica.
