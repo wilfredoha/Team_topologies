@@ -72,3 +72,8 @@ Se promueve la capacidad de **autodiseño y autoorganización** de los equipos, 
 
 Las organizaciones deben adoptar una mentalidad de **evolución continua**, ajustando sus topologías y modos de interacción a medida que aprenden, crecen y enfrentan nuevos desafíos. Esta adaptabilidad es esencial para mantener la innovación y la entrega sostenible en entornos cambiantes.
 
+---
+
+[Anterior](https://github.com/wilfredoha/Team_topologies/blob/main/02_TEAM_TOPOLOGIES_THAT_WORK_FOR_FLOW/06_Chapter_06.md)   [Siguiente](https://github.com/wilfredoha/Team_topologies/blob/main/03_EVOLVING_TEAM_INTERACTIONS_FOR_INNOVATION_AND_RAPID_DELIVERY/07_Chapter_07.md)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
