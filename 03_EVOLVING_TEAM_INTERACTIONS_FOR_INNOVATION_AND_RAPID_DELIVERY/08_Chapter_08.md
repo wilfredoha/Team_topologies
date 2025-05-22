@@ -75,3 +75,9 @@ Adoptar un enfoque deliberado y sensible al contexto permite a las organizacione
 - Mantener una cultura de aprendizaje y mejora continua.
 
 Las organizaciones resilientes no temen al cambio estructural; lo **usan como ventaja estratégica**.
+
+---
+
+[Anterior](https://github.com/wilfredoha/Team_topologies/blob/main/03_EVOLVING_TEAM_INTERACTIONS_FOR_INNOVATION_AND_RAPID_DELIVERY/07_Chapter_07.md)   [Siguiente](https://github.com/wilfredoha/Team_topologies/blob/main/conclusion.md)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
