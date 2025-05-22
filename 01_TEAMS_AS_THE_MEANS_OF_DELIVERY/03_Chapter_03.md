@@ -54,3 +54,9 @@ Este capítulo propone un cambio de mentalidad: **poner al equipo en el centro d
 * Asegurarse de contar con prácticas de ingeniería sólidas.
 
 Este enfoque ayuda a construir organizaciones más adaptables, resilientes y efectivas, en las que los equipos son capaces de entregar valor de forma continua y sostenible.
+
+---
+
+[Anterior](https://github.com/wilfredoha/Team_topologies/blob/main/01_TEAMS_AS_THE_MEANS_OF_DELIVERY/02_Chapter_02.md)   [Siguiente](https://github.com/wilfredoha/Team_topologies/tree/main/02_TEAM_TOPOLOGIES_THAT_WORK_FOR_FLOW)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
