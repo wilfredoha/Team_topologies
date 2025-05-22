@@ -68,3 +68,6 @@ Para ir más rápido, los equipos deben tener límites claros, carga cognitiva m
 
 ---
 
+[Anterior](https://github.com/wilfredoha/Team_topologies/tree/main)   [Siguiente](https://github.com/wilfredoha/Team_topologies/blob/main/01_TEAMS_AS_THE_MEANS_OF_DELIVERY/01_Chapter_01.md)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
