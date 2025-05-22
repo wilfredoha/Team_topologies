@@ -33,3 +33,9 @@ Las **topologías DevOps** no son estáticas. Deben utilizarse como herramientas
 ### Resumen: Adopta y evoluciona topologías de equipo que coincidan con tu contexto actual
 
 Las organizaciones deben dejar de usar modelos genéricos o jerarquías inflexibles y comenzar a adoptar **topologías de equipo dinámicas**. Es esencial alinear las estructuras de los equipos con el contexto actual y el tipo de trabajo a realizar. Con las topologías correctas, es posible lograr **flujo de entrega rápido**, **mejor colaboración** y **adaptabilidad organizacional**.
+
+---
+
+[Anterior](https://github.com/wilfredoha/Team_topologies/tree/main/02_TEAM_TOPOLOGIES_THAT_WORK_FOR_FLOW)   [Siguiente](https://github.com/wilfredoha/Team_topologies/blob/main/02_TEAM_TOPOLOGIES_THAT_WORK_FOR_FLOW/05_Chapter_05.md)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
