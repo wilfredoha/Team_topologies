@@ -51,3 +51,8 @@ Además, señalan que las organizaciones modernas deben **optimizar simultáneam
 
 El objetivo del libro es proporcionar una **guía práctica**, con conceptos claros y aplicables, para rediseñar la organización tecnológica en función de la entrega rápida y segura de software. Concluyen el prefacio destacando que el cambio organizativo debe ser iterativo y deliberado, y que el modelo propuesto es un punto de partida para ese camino.
 
+---
+
+[Siguiente](https://github.com/wilfredoha/Team_topologies/tree/main/01_TEAMS_AS_THE_MEANS_OF_DELIVERY)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
