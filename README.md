@@ -54,5 +54,3 @@ El objetivo del libro es proporcionar una **guía práctica**, con conceptos cla
 ---
 
 [Siguiente](https://github.com/wilfredoha/Team_topologies/tree/main/01_TEAMS_AS_THE_MEANS_OF_DELIVERY)
-
-[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
