@@ -73,3 +73,9 @@ Para comenzar a aplicar *Team Topologies*, se recomienda:
 5. Utilizar las herramientas del libro (por ejemplo, guías, mapas de equipo, plantillas) para facilitar discusiones prácticas.
 
 Este es un camino de **transformación progresiva**. Pequeños cambios bien dirigidos pueden generar grandes impactos en la entrega de software y la salud organizacional.
+
+---
+
+[Anterior](https://github.com/wilfredoha/Team_topologies/blob/main/03_EVOLVING_TEAM_INTERACTIONS_FOR_INNOVATION_AND_RAPID_DELIVERY/08_Chapter_08.md)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
