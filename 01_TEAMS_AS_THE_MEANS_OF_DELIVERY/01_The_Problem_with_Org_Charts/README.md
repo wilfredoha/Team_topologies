@@ -1,58 +1,71 @@
-# El Problema de los Organigramas(Org Charts)
+# Parte I: Equipos como medio de entrega
 
-> Las organizaciones deben ser vistas como organismos complejos y adaptativos, no como sistemas mecánicos y lineales.  
-> —Naomi Stanford, *Guide to Organisation Design*
+La Parte I del libro *Team Topologies* establece los fundamentos conceptuales y prácticos para rediseñar la organización de equipos en entornos tecnológicos. En un contexto donde las organizaciones deben ser rápidas, adaptables y resilientes, los autores nos invitan a repensar cómo se estructuran y cómo interactúan los equipos. Esta sección introduce las limitaciones de los organigramas tradicionales, el impacto de la Ley de Conway en el diseño de software y la necesidad de adoptar un enfoque que priorice las capacidades de los equipos.
 
-## La complejidad del entorno tecnológico actual
+## Capítulo 1: El problema con los organigramas
 
-Los trabajadores de tecnología viven en un estado constante de acción: crean y actualizan sistemas a un ritmo increíble, combinando distintos tipos de tecnologías para ofrecer una experiencia de usuario atractiva. 
+### El problema con los organigramas
+Los organigramas tradicionales reflejan estructuras jerárquicas, pero ocultan cómo fluye realmente la comunicación y el trabajo. Este enfoque mecánico no se adapta bien a la naturaleza compleja y cambiante del desarrollo de software.
 
-Aplicaciones móviles, servicios en la nube, aplicaciones web y dispositivos embebidos, vestibles o del IoT industrial necesitan interoperar eficazmente para lograr los resultados de negocio deseados.
+### Estructuras de comunicación en una organización
+Más allá del organigrama, existen canales informales y patrones de interacción que moldean la forma en que los equipos colaboran. Comprender estas dinámicas es crucial para una entrega efectiva.
 
-## El impacto real de los sistemas digitales
+### Team Topologies: Una nueva forma de pensar los equipos
+Los autores proponen una nueva forma de pensar la estructura organizacional, centrada en cuatro tipos de equipos y tres modos de interacción que optimizan la entrega de valor.
 
-Estos sistemas hoy afectan casi todos los aspectos de la vida diaria, de formas cada vez más profundas. Si el software está mal diseñado—o más importante aún, si existe una desconexión entre el software, el proveedor y el cliente—las personas pueden verse afectadas negativamente:
+### El resurgimiento de la Ley de Conway
+La Ley de Conway afirma que el diseño de los sistemas refleja las estructuras de comunicación. Entender esto permite alinear la arquitectura técnica con la organización humana.
 
-* Pueden quedarse varadas lejos de casa si falla una aplicación de transporte.
-* Pueden no poder pagar la renta si falla un servicio de banca en línea.
-* Pueden poner en riesgo su vida si falla un dispositivo médico.
+### Carga cognitiva y cuellos de botella
+La productividad de un equipo está limitada por la cantidad de información que sus miembros pueden manejar eficazmente. Diseñar límites claros y responsabilidades adecuadas ayuda a minimizar la carga cognitiva.
 
-Nunca antes ha sido tan importante un diseño **sociotécnico explícito**.
+### Resumen
+Es necesario repensar cómo se organizan los equipos, su propósito y sus interacciones para lograr velocidad, estabilidad e innovación continua.
 
-## La necesidad de trabajo en equipo
+---
 
-Construir y operar estos complejos sistemas interconectados es una actividad colaborativa, que requiere los esfuerzos combinados de personas con diferentes habilidades trabajando en distintas plataformas.
+## Capítulo 2: La Ley de Conway y por qué importa
 
-Las organizaciones de TI deben entregar y operar software **rápidamente y con seguridad**, mientras se adaptan al cambio constante del entorno de negocio o regulatorio. Hoy, las empresas ya no pueden elegir entre optimizar para la **estabilidad** o para la **velocidad**: necesitan ambas.
+### Comprender y aplicar la Ley de Conway
+El diseño de software está condicionado por la forma en que las personas se comunican dentro de una organización. La ley no es opcional, es una realidad a gestionar activamente.
 
-## Estructuras organizacionales obsoletas
+### La maniobra de Conway inversa
+En lugar de dejar que la estructura organizativa defina el software, se puede diseñar la arquitectura deseada y luego estructurar los equipos para que la reflejen.
 
-A pesar de estas demandas, muchas organizaciones aún organizan a sus equipos de maneras que resultan contraproducentes para el desarrollo y operación de software modernos. 
+### Arquitecturas de software que fomentan el flujo por equipo
+Las arquitecturas modernas deben facilitar que los equipos trabajen de forma independiente y fluida, minimizando dependencias externas.
 
-* Las estructuras rígidas basadas en organigramas y matrices para dividir y controlar el trabajo a menudo **fallan en crear condiciones para la innovación**.
-* Estas estructuras impiden entregar rápido y adaptarse al cambio.
+### El diseño organizativo requiere experiencia técnica
+No basta con decisiones de recursos humanos. El diseño de equipos debe ser una disciplina técnica, informada por la arquitectura del sistema.
 
-## Equipos estables y patrones efectivos
+### Restringir la comunicación innecesaria
+Demasiada comunicación puede ser una señal de una mala arquitectura. Es preferible facilitar interacciones bien definidas y no forzar conexiones innecesarias.
 
-Para tener éxito, las organizaciones deben:
+### Cuidado: usos ingenuos de la Ley de Conway
+Aplicar la ley sin entender su profundidad puede llevar a errores. No se trata solo de copiar estructuras existentes, sino de diseñar con intención.
 
-* Contar con **equipos estables y empoderados** como base de la agilidad.
-* Adoptar **patrones efectivos de interacción entre equipos**.
-* Fomentar la habilidad de percibir cambios en el contexto y **evolucionar en consecuencia**.
+### Resumen
+La Ley de Conway es esencial para diseñar equipos eficaces en tecnología. Ignorarla es comprometer la eficiencia y escalabilidad de la organización.
 
-La buena noticia es que **es posible ser rápidos y seguros al mismo tiempo**, si se adopta la mentalidad adecuada y herramientas que promuevan tanto la adaptabilidad como la repetibilidad, **colocando a los equipos y personas en el centro**.
+---
 
-## De estructuras a ecosistemas sociotécnicos
+## Capítulo 3: Pensamiento centrado en el equipo
 
-Como miembros de equipos tecnológicos, debemos cambiar la forma en que vemos a los equipos:
+### Utilizar equipos pequeños y de larga duración como estándar
+Los equipos estables generan confianza, conocimiento compartido y mayor efectividad en el largo plazo. Cambiar personas constantemente daña el rendimiento colectivo.
 
-* No como **grupos intercambiables de individuos** que pueden tener éxito con el proceso y herramientas "correctas".
-* Sino como un **ecosistema sociotécnico humano/computacional**, de carbono y silicio, donde la motivación intrínseca y el contexto importan.
+### Los buenos límites minimizan la carga cognitiva
+Delimitar claramente qué pertenece a cada equipo permite que se enfoquen en su dominio sin sobrecarga de información o dependencias externas.
 
-Debemos asegurarnos de que los equipos estén motivados y tengan oportunidades reales de hacer su mejor trabajo dentro del sistema.
+### Diseñar "APIs de equipo" y facilitar interacciones
+Definir cómo interactúan los equipos (sus “interfaces”) mejora la colaboración. Las relaciones deben ser explícitas, coherentes y orientadas al valor.
 
-## Introducción a Team Topologies
+### Advertencia: las prácticas de ingeniería son fundamentales
+No hay estructura organizacional que compense la falta de buenas prácticas de ingeniería. La excelencia técnica es la base sobre la que todo lo demás se construye.
 
-Este capítulo introduce **Team Topologies** como un modelo adaptativo de diseño organizacional tecnológico que permite a las empresas alcanzar **velocidad y estabilidad**.
+### Resumen
+Para ir más rápido, los equipos deben tener límites claros, carga cognitiva manejable e interacciones eficaces. El diseño organizativo comienza por el equipo.
 
-Pero antes, debemos explorar cómo las estructuras reales de comunicación en la mayoría de organizaciones difieren de lo que muestran los organigramas tradicionales, y qué implicaciones tiene esto para el diseño efectivo de equipos.
+---
+
+> **Siguiente paso sugerido:** Explorar la Parte II del libro, donde se introducen los **tipos fundamentales de equipo** y los **modos de interacción** que permiten implementar las ideas de Team Topologies en la práctica.
