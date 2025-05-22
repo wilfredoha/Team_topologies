@@ -38,3 +38,9 @@ El capítulo plantea que las organizaciones deben alejarse de los modelos tradic
 * Invertir en la salud de los equipos como unidad fundamental de entrega de valor.
 
 **Team Topologies** ofrece un marco para lograr esto, partiendo de una comprensión profunda de cómo las organizaciones realmente funcionan y cómo deberían adaptarse al contexto actual.
+
+---
+
+[Anterior](https://github.com/wilfredoha/Team_topologies/tree/main/01_TEAMS_AS_THE_MEANS_OF_DELIVERY)   [Siguiente](https://github.com/wilfredoha/Team_topologies/blob/main/01_TEAMS_AS_THE_MEANS_OF_DELIVERY/02_Chapter_02.md)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
