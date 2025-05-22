@@ -52,3 +52,8 @@ Este capítulo destaca que una organización tecnológica moderna no puede ignor
 
 Con una aplicación reflexiva y estratégica, la Ley de Conway se convierte en una poderosa herramienta para crear organizaciones más efectivas y sistemas más sólidos.
 
+---
+
+[Anterior](https://github.com/wilfredoha/Team_topologies/blob/main/01_TEAMS_AS_THE_MEANS_OF_DELIVERY/01_Chapter_01.md)   [Siguiente](https://github.com/wilfredoha/Team_topologies/blob/main/01_TEAMS_AS_THE_MEANS_OF_DELIVERY/03_Chapter_03.md)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
