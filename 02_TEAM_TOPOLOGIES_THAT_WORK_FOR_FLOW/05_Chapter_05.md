@@ -58,3 +58,9 @@ Las cuatro topologías fundamentales son la base para un diseño organizacional 
 * Reducir la carga cognitiva.
 * Mejorar la colaboración.
 * Adaptarse rápidamente a los cambios tecnológicos y del mercado.
+
+---
+
+[Anterior](https://github.com/wilfredoha/Team_topologies/blob/main/02_TEAM_TOPOLOGIES_THAT_WORK_FOR_FLOW/04_Chapter_04.md)   [Siguiente](https://github.com/wilfredoha/Team_topologies/blob/main/02_TEAM_TOPOLOGIES_THAT_WORK_FOR_FLOW/06_Chapter_06.md)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
