@@ -85,3 +85,9 @@ El capítulo incluye una analogía con la manufactura para explicar cómo separa
 ### Resumen
 
 **Define los límites del software de forma que coincidan con la carga cognitiva y las capacidades de los equipos**. Esto permite que cada equipo opere de manera autónoma, eficiente y escalable.
+
+---
+
+[Anterior](https://github.com/wilfredoha/Team_topologies/blob/main/01_TEAMS_AS_THE_MEANS_OF_DELIVERY/03_Chapter_03.md)   [Siguiente](https://github.com/wilfredoha/Team_topologies/blob/main/02_TEAM_TOPOLOGIES_THAT_WORK_FOR_FLOW/04_Chapter_04.md)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
