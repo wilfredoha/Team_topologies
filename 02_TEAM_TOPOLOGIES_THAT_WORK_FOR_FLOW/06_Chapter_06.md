@@ -51,3 +51,9 @@ El diseño de límites en software no debe basarse únicamente en factores técn
 * Alinear arquitectura y estructura organizacional.
 
 Una arquitectura bien definida, alineada con las topologías de equipo y sus capacidades, es clave para lograr velocidad, estabilidad y satisfacción del equipo.
+
+---
+
+[Anterior](https://github.com/wilfredoha/Team_topologies/blob/main/02_TEAM_TOPOLOGIES_THAT_WORK_FOR_FLOW/05_Chapter_05.md)   [Siguiente](https://github.com/wilfredoha/Team_topologies/tree/main/03_EVOLVING_TEAM_INTERACTIONS_FOR_INNOVATION_AND_RAPID_DELIVERY)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
