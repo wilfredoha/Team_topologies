@@ -58,3 +58,9 @@ Los modos de interacción actúan como **herramientas tácticas** para ajustar l
 ### Resumen: Tres Modos de Interacción Bien Definidos
 
 Los tres modos de interacción —**colaboración**, **servicio** y **facilitación**— ofrecen un lenguaje común para definir cómo deben relacionarse los equipos en distintas situaciones. Implementar estos modos de forma consciente permite a las organizaciones reducir fricción, aumentar la entrega de valor y facilitar la evolución continua de sus equipos.
+
+---
+
+[Anterior](https://github.com/wilfredoha/Team_topologies/tree/main/03_EVOLVING_TEAM_INTERACTIONS_FOR_INNOVATION_AND_RAPID_DELIVERY)   [Siguiente](https://github.com/wilfredoha/Team_topologies/blob/main/03_EVOLVING_TEAM_INTERACTIONS_FOR_INNOVATION_AND_RAPID_DELIVERY/08_Chapter_08.md)
+
+[Menú Principal](https://github.com/wilfredoha/Team_topologies/tree/main)
